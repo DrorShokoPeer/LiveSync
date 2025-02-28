@@ -33,5 +33,5 @@ LiveSync is a real-time web application designed to **streamline live band karao
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/LiveSync.git
+git clone https://github.com/drorshokopeer/LiveSync.git
 cd LiveSync
